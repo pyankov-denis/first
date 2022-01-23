@@ -56,6 +56,7 @@ public class Main {
             }
         });
         frame.setVisible(true);
+        System.out.println("I`m born!");
     }
 }
 
